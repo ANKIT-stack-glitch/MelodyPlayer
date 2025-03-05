@@ -1,5 +1,5 @@
-# MelodyPlayer
-🎵 A simple music player app built with JavaScript 🎶
+# MelodyPlayer 🎵
+A simple music player app built with JavaScript 🎶
 
 ## 🚀 Features
 - Play, pause, and skip songs
@@ -22,17 +22,14 @@
    ```bash
    git clone https://github.com/ANKIT-stack-glitch/MelodyPlayer.git
 
+2. Open the folder and run index.html in a browser.
 
-   Open the folder and run index.html in a browser.
+🌐 Live Demo
+Check out the live demo of the app here
+
+📸 Screenshot
+
+
+
 🤝 Contributing
 Feel free to fork the repo and make pull requests! Open issues if you find any bugs or have suggestions. 😊
-
-💬 Feedback
-Any feedback or suggestions? Feel free to open an issue or create a pull request!
-
-👨‍💻 Author
-Made with ❤️ by Ankit Poudyal (ANKIT-stack-glitch)
-
-
-
-
