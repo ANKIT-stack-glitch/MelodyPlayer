@@ -1,6 +1,14 @@
 # MelodyPlayer 🎵
 A simple music player app built with JavaScript 🎶
 
+## 🎥  [🔗 Live Demo](https://ankit-stack-glitch.github.io/MelodyPlayer/)
+
+
+## 📸 Screenshot
+
+![image]()
+
+
 ## 🚀 Features
 - Play, pause, and skip songs
 - Display song title and artist
@@ -24,12 +32,14 @@ A simple music player app built with JavaScript 🎶
 
 2. Open the folder and run index.html in a browser.
 
-🌐 Live Demo
-Check out the live demo of the app here
-
-📸 Screenshot
+## 🙌 Contributing
+Contributions are welcome! Feel free to fork the repo, create a feature branch, and submit a PR.
 
 
+## 📝 License
+This project is open-source and available under the MIT License.
 
-🤝 Contributing
-Feel free to fork the repo and make pull requests! Open issues if you find any bugs or have suggestions. 😊
+
+## 📬 Connect with Me  
+👨‍💻 **Ankit Poudel**
+🔗 [GitHub Profile](https://github.com/ANKIT-stack-glitch)
