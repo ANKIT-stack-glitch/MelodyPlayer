@@ -5,8 +5,9 @@ A simple music player app built with JavaScript 🎶
 
 
 ## 📸 Screenshot
-![image](https://github.com/user-attachments/assets/dc007fa2-6fc0-40cb-a082-078fdea6ea58)
-)
+
+<img src="https://github.com/user-attachments/assets/dc007fa2-6fc0-40cb-a082-078fdea6ea58" alt="Tic Tac Toe Screenshot" width="400">
+
 
 
 
